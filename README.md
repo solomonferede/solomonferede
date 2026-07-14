@@ -11,20 +11,20 @@
 
 ### 🔬 Research & Executive Summary
 
-I am a **Researcher** in Electrical and Computer Engineering with an **MSc in Control Systems Engineering**. My research and professional focus lies at the intersection of mathematical system modeling, non-linear control, and robust software engineering. I specialize in designing intelligent control strategies for wearable robotic systems[cite: 1] and translating complex control logic into reliable, high-performance backend software solutions.
+I am a **Researcher** in Electrical and Computer Engineering with an **MSc in Control Systems Engineering**. My research and professional focus lies at the intersection of mathematical system modeling, non-linear control, and robust software engineering. I specialize in designing intelligent control strategies for wearable robotic systems. and translating complex control logic into reliable, high-performance backend software solutions.
 
-My primary research interests include **Rehabilitation Robotics**, **Intelligent & Wearable Robotic Systems**, and **Adaptive and Learning-Based Control**[cite: 1]. I am also expanding my engineering toolkit through the **ALX Backend ProDev Program**, focusing on high-performance API design, distributed database management, and cloud-native system scalability.
+My primary research interests include **Rehabilitation Robotics**, **Intelligent & Wearable Robotic Systems**, and **Adaptive and Learning-Based Control**. I am also expanding my engineering toolkit through the **ALX Backend ProDev Program**, focusing on high-performance API design, distributed database management, and cloud-native system scalability.
 
 ---
 
 ### 🔬 Peer-Reviewed Publications
 
-*   **Adaptive super-twisting sliding mode control for robust tracking of wearable PAM-driven robotic manipulator** (2026) | *Scientific Reports (Springer Nature)*[cite: 1]
-    *   Developed a robust adaptive high-order sliding mode framework (ASTSMC) for trajectory tracking in lower-limb rehabilitation robotics, minimizing chattering and ensuring finite-time stability[cite: 1].
-*   **Adaptive Fuzzy PID Control of Two-DOF Pneumatic Artificial Muscle Manipulator for Rehabilitation** (2026) | *Engineering Reports (Wiley)*[cite: 1]
-    *   Designed an adaptive intelligent control strategy to manage non-linear dynamics and uncertainties in compliant, human-safe soft robotic actuators[cite: 1].
-*   **Adaptive fuzzy sliding mode control applied to inverted pendulum** (2026) | *Scientific Reports (Nature)*[cite: 1]
-    *   Developed an Adaptive Fuzzy Sliding Mode Controller (AFSMC) with online adaptive gain tuning to mitigate chattering and achieve precise trajectory regulation under severe disturbances[cite: 1].
+*   **Adaptive super-twisting sliding mode control for robust tracking of wearable PAM-driven robotic manipulator** (2026) | *Scientific Reports (Springer Nature)
+    *   Developed a robust adaptive high-order sliding mode framework (ASTSMC) for trajectory tracking in lower-limb rehabilitation robotics, minimizing chattering and ensuring finite-time stability.
+*   **Adaptive Fuzzy PID Control of Two-DOF Pneumatic Artificial Muscle Manipulator for Rehabilitation** (2026) | *Engineering Reports (Wiley)*
+    *   Designed an adaptive intelligent control strategy to manage non-linear dynamics and uncertainties in compliant, human-safe soft robotic actuators.
+*   **Adaptive fuzzy sliding mode control applied to inverted pendulum** (2026) | *Scientific Reports (Nature)*
+    *   Developed an Adaptive Fuzzy Sliding Mode Controller (AFSMC) with online adaptive gain tuning to mitigate chattering and achieve precise trajectory regulation under severe disturbances.
 
 ---
 
@@ -47,9 +47,9 @@ My primary research interests include **Rehabilitation Robotics**, **Intelligent
 
 ### 🛠 Core Competencies
 
-*   **Control Theory & Robotics:** Non-linear Control, Adaptive & Learning-Based Control, Soft Robotics, System Modeling & Dynamics (Euler-Lagrange), Rehabilitation Robotics[cite: 1].
-*   **Simulation & Analytics:** MATLAB/Simulink, numerical methods, system identification, biomechanics analysis[cite: 1].
-*   **Software Development:** Python (Flask, Django REST Framework), C/C++, API Design & Documentation, Embedded Systems[cite: 1].
+*   **Control Theory & Robotics:** Non-linear Control, Adaptive & Learning-Based Control, Soft Robotics, System Modeling & Dynamics (Euler-Lagrange), Rehabilitation Robotics.
+*   **Simulation & Analytics:** MATLAB/Simulink, numerical methods, system identification, biomechanics analysis.
+*   **Software Development:** Python (Flask, Django REST Framework), C/C++, API Design & Documentation, Embedded Systems.
 *   **Data & DevOps:** SQL Database Schema Optimization (MySQL, Postgres), Redis, CloudOps, GitHub Actions.
 *   **Security:** Token-based authentication (JWT), Secure System Design.
 
